@@ -15,23 +15,27 @@ is located.
 
 * Variables
 
-** date – Date of sales data
+▪ date – Date of sales data
+
 ~No holiday effects or store closures
 
-** Store – Store ID
+▪ Store – Store ID
+
 ~Unique number for each store.
 
-** Item - Item ID
+▪ Item - Item ID
+
 Unique number for each product.
 
-**Sales – Number of products sold,
+▪ Sales – Number of products sold,
+
 ~The number of products sold from a particular store on a given date
 
 * Task
 
-** Relevant store using the following time series and machine learning techniques
+* Relevant store using the following time series and machine learning techniques
 
-** Create a 3-month demand forecasting model for the chain.
+* Create a 3-month demand forecasting model for the chain.
 
 ▪ Random Noise
 
